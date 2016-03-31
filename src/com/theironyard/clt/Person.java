@@ -15,7 +15,24 @@ public class Person {
     }
 
     public void setAge(age) {
+        this.age = age;
 
+    }
 
+    public int getAge() {
+        return this.age;
+
+    }
+
+    public void setHairColor(String hairColor) {
+        this.hairColor = hairColor;
+    }
+
+    public String getHairColor() {
+        return this.hairColor;
+    }
+
+    public String getName() {
+        return this.name
+    }
 }
-
